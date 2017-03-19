@@ -1,0 +1,23 @@
+{
+  "name": "vue-sidenav",
+  "version": "1.0.0",
+  "description": "a vue side nav",
+  "main": "SideNav.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongshimou/vue-sidenav.git"
+  },
+  "keywords": [
+    "vue",
+    "sidenav"
+  ],
+  "author": "dongshimou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dongshimou/vue-sidenav/issues"
+  },
+  "homepage": "https://github.com/dongshimou/vue-sidenav#readme"
+}
